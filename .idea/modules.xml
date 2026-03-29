@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/ClinicaMedica/ClinicaMedica.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/ClinicaMedica/ClinicaMedica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/ComputadorComponentes/ComputadorComponentes.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/ComputadorComponentes/ComputadorComponentes.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/DroneProfissional/DroneProfissional.iml" filepath="$PROJECT_DIR$/DroneProfissional/DroneProfissional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/EdificioApartamentos/EdificioApartamentos.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/EdificioApartamentos/EdificioApartamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO2026.iml" filepath="$PROJECT_DIR$/.idea/POO2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/ProjetoSoftware/ProjetoSoftware.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/ProjetoSoftware/ProjetoSoftware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/RevisaoAssociacao.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/RevisaoAssociacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/SistemaBiblioteca/SistemaBiblioteca.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/SistemaBiblioteca/SistemaBiblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/SistemaCineTeatro/SistemaCineTeatro.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/SistemaCineTeatro/SistemaCineTeatro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/SistemaVendasSupermercado/SistemaVendasSupermercado.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/SistemaVendasSupermercado/SistemaVendasSupermercado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Smartv/Smartv.iml" filepath="$PROJECT_DIR$/Smartv/Smartv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevisaoAssociacao/TimeBasquete/TimeBasquete.iml" filepath="$PROJECT_DIR$/RevisaoAssociacao/TimeBasquete/TimeBasquete.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lista3_todo_parte/todo_parte.iml" filepath="$PROJECT_DIR$/Lista3_todo_parte/todo_parte.iml" />
     </modules>
   </component>
